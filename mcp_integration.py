@@ -116,7 +116,3 @@ def handle_claude_tool_call(tool_params: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "results": [asdict(result) for result in results]
     }
-    
-
-        
-    
