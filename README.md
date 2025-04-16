@@ -1,2 +1,2 @@
-# DuckDuckGo-MCP-Server
-DuckDuckGo MCP Server
+# DuckDuckGo-MCP-Project
+DuckDuckGo MCP Project
